@@ -689,38 +689,6 @@ Your data is backed up automatically every day.
 - 30-day retention (can recover data from last month)
 - Quick restore in case of disaster
 
-**Real-world equivalent:**
-Like making photocopies of important documents and storing them in a different building.
-
-#### 6. Multi-Organization Isolation
-
-**What it means:**
-If you're hosting multiple companies, their data is completely separated.
-
-**How it works:**
-- Each organization has its own data space
-- Organization A cannot see Organization B's data
-- Even system admins need special access
-
-**Business value:**
-- Secure multi-tenancy
-- Compliance with data privacy laws
-- Peace of mind for clients
-
-### Compliance & Certifications
-
-We help you comply with:
-
-- **SOX (Sarbanes-Oxley)**: Financial reporting requirements
-- **GDPR**: European data privacy
-- **HIPAA**: Healthcare data (if applicable)
-- **FDA CFR Part 11**: Pharmaceutical traceability
-- **ISO 27001**: Information security standards
-
----
-
-
-
 
 
 ## Roadmap
