@@ -1391,32 +1391,4 @@ A: We offer custom development services. Most common requests: custom reports, s
 [Country]
 
 ---
-
-## 🎯 Take Action Today
-
-**Your competitors are already automating their operations. Don't get left behind.**
-
-### Next Steps:
-
-1. **📞 Call us** for a personalized demo
-2. **📧 Email us** your questions
-3. **🌐 Visit our website** to start free trial
-4. **📅 Book a consultation** to discuss your specific needs
-
-### Limited Time Offer
-
-**Sign up before [Date] and get:**
-- ✅ 20% off first year
-- ✅ Free implementation (value: $5,000)
-- ✅ 3 months of priority support
-- ✅ Free migration from existing system
-
----
-
-**Remember:** Every day without ERP is money lost to inefficiency, errors, and missed opportunities.
-
-**Let us help you transform your business operations!**
-
----
-
 *This document is current as of December 2025. Features and pricing subject to change. Please contact us for the most up-to-date information.*
